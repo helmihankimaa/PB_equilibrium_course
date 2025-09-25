@@ -1,0 +1,11 @@
+name: course_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pyomo
+  - gurobi
+  - ipykernel
+  - matplotlib
+  - pandas
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/course_env
