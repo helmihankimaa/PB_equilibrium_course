@@ -8,4 +8,5 @@ dependencies:
   - ipykernel
   - matplotlib
   - pandas
+  - scip
 prefix: /opt/homebrew/Caskroom/miniconda/base/envs/course_env
