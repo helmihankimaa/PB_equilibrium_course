@@ -4,10 +4,10 @@ Date: October 2025
 
 This repository contains a set of Jupyter notebooks meant to complement lectures on the Equilibrium Modeling as part of the in-person course at Petrobras. The repository contains three notebooks:
 
-Module 1:
-Module 2:
-Module 3:
-Each notebooks corresponds to a module in the course and they each include several exercises. The notebooks are designed to be self-contained but are closely linked with the in-person lectures of the course. The notebooks implement optimization models using Pyomo, a Python-based, open-source optimization modeling language. The problems are solved using Gurobi, a commercial optimization solver.
+Module 1: Bilevel Problems
+Module 2: Optimization Problems & Karush-Kuhn-Tucker (KKT) Conditions
+Module 3: Mixed Complementarity Problems (MCPs) 
+Each notebooks corresponds to a module in the course and they each include several exercises. The notebooks are designed to be self-contained but are closely linked with the in-person lectures of the course. The notebooks implement optimization models using Pyomo, a Python-based, open-source optimization modeling language. The problems are solved using SCIP, an open-source optimization solver and PATH, a solver for mixed complementarity problems.
 
 ## Getting Started
 There are two main options for installing and running the Jupyter notebooks (1) remotely or (2) locally. For users with limited Python programming experience, running the notebooks remotely via Google Colab is highly recommended. Users comfortable with environment management in Python and command line interfaces may prefer option 2.
@@ -17,7 +17,7 @@ Google Colaboratory is a free, browser-based tool that allows users to write and
 
 Module 1: ADD LINK
 Module 2: ADD LINK
-Module 3: ADD LINK
+Module 3: [module 3](https://drive.google.com/file/d/1M8vuwdy9Y9RNxk-kV9G-cz14AGBmqLPB/view?usp=sharing)
 The above links will open the notebooks in a separate web browser. To edit the notebooks, users must save a copy of the notebook to their Google Drive which can be done from the menu File -> Save a copy in Drive. The first cell in each notebook will install the necessary package dependecies. Once you run this cell you will be good to go!
 
 ### Running the Notebooks Locally
