@@ -1,6 +1,5 @@
 name: course_env
 channels:
-  - gurobi
   - conda-forge
   - defaults
 dependencies:
@@ -24,7 +23,6 @@ dependencies:
   - fonttools=4.55.3=py311h80987f9_0
   - freetype=2.13.3=h47d26ad_0
   - gmp=6.3.0=h7bae524_2
-  - gurobi=12.0.3=py311_0
   - icu=75.1=hfee45f7_0
   - importlib-metadata=8.7.0=pyhe01879c_1
   - ipopt=3.14.11=h843a782_0
