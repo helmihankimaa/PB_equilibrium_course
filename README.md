@@ -16,15 +16,18 @@ There are two main options for installing and running the Jupyter notebooks (1) 
 Google Colaboratory is a free, browser-based tool that allows users to write and run Python code. To access and run the notebooks on Google Colab, click on the following links:
 
 Module 1: ADD LINK
+
 Module 2: ADD LINK
+
 Module 3: [module 3](https://drive.google.com/file/d/1M8vuwdy9Y9RNxk-kV9G-cz14AGBmqLPB/view?usp=sharing)
+
 The above links will open the notebooks in a separate web browser. To edit the notebooks, users must save a copy of the notebook to their Google Drive which can be done from the menu File -> Save a copy in Drive. The first cell in each notebook will install the necessary package dependecies. Once you run this cell you will be good to go!
 
 ### Running the Notebooks Locally
 To run the notebooks locally, there are two main options: (1) running on a jupyter server or (2) running on VS Code. Both of these steps require cloning this repository via the following command:
 
-```git clone ADD LINK```
-In addition, both methods assume pip and Anaconda are installed on your local machine.
+```git clone https://github.com/helmihankimaa/PB_equilibrium_course.git```
+In addition, both methods assume [pip](https://pip.readthedocs.io/en/stable/installing/) and [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) are installed on your local machine. 
 
 #### The Jupyter Server
 The Jupyter notebook is a web-based notebook environment for interactive computing.
@@ -40,7 +43,8 @@ Then, activate the environment:
 Once the environment is activated, navigate to the directory of your cloned repository and run the following command to start the Jupyter session:
 
 ```jupyter notebook```
+
 This will start a remote connection to the Jupyter server and open this repository in your web browser. Clicking on one of the notebooks will start a new kernel and allow you to run the notebooks.
 
 #### VS Code Set-Up
-Alternatively, Visual Studio Code recently introduced support to run Jupyter notebooks natively. To run these notebooks directly in Visual Studio code, perform Steps 1 and 2 above to install and activate your conda environment. Then, open VS Code and follow these instructions to open and run the notebook in VS Code.
+Alternatively, [Visual Studio Code](https://code.visualstudio.com)  recently introduced support to run Jupyter notebooks natively. To run these notebooks directly in Visual Studio code, perform Steps 1 and 2 above to install and activate your conda environment. Then, open VS Code and follow [these instructions](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) to open and run the notebook in VS Code.
