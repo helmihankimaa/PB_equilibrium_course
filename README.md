@@ -19,7 +19,9 @@ Module 1: ADD LINK
 
 Module 2: ADD LINK
 
-Module 3: [module 3](https://drive.google.com/file/d/1M8vuwdy9Y9RNxk-kV9G-cz14AGBmqLPB/view?usp=sharing)
+Module 3: [module 3](https://colab.research.google.com/drive/1M8vuwdy9Y9RNxk-kV9G-cz14AGBmqLPB?authuser=1) 
+
+
 
 The above links will open the notebooks in a separate web browser. To edit the notebooks, users must save a copy of the notebook to their Google Drive which can be done from the menu File -> Save a copy in Drive. The first cell in each notebook will install the necessary package dependecies. Once you run this cell you will be good to go!
 
