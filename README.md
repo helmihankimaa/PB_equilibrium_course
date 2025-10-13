@@ -39,6 +39,7 @@ Module 3: [notebook 3](https://drive.google.com/file/d/1-StG3rq54fhPNRpjx19egFJY
 To run the notebooks locally, there are two main options: (1) running on a jupyter server or (2) running on VS Code. Both of these steps require cloning this repository via the following command:
 
 ```git clone https://github.com/helmihankimaa/PB_equilibrium_course.git```
+
 In addition, both methods assume [pip](https://pip.pypa.io/en/stable/installation/) and [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) are installed on your local machine. 
 
 #### The Jupyter Server
