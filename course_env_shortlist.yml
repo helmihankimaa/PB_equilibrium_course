@@ -8,4 +8,5 @@ dependencies:
   - matplotlib
   - pandas
   - scip
+  - networkx
 prefix: /opt/homebrew/Caskroom/miniconda/base/envs/course_env
