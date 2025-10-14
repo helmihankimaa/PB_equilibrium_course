@@ -4,11 +4,11 @@ Date: October 2025
 
 This repository contains a set of Jupyter notebooks meant to complement lectures on the Equilibrium Modeling as part of the in-person course at Petrobras. The repository contains three notebooks:
 
-Module 1: Bilevel Problems
+Module 1: Optimization Problems & Karush-Kuhn-Tucker (KKT) Conditions
 
-Module 2: Optimization Problems & Karush-Kuhn-Tucker (KKT) Conditions
+Module 2: Mixed Complementarity Problems (MCPs)  and Strategic Competition
 
-Module 3: Mixed Complementarity Problems (MCPs) 
+Module 3: Bilevel Problems 
 
 Each notebooks corresponds to a module in the course and they each include several exercises. The notebooks are designed to be self-contained but are closely linked with the in-person lectures of the course. The notebooks implement optimization models using Pyomo, a Python-based, open-source optimization modeling language. The problems are solved using SCIP, an open-source optimization solver and PATH, a solver for mixed complementarity problems.
 
@@ -26,11 +26,11 @@ To edit the notebooks, you must save a copy of the notebook to your Google Drive
 
 The first cells in each notebook will install the necessary package dependecies and set up solvers. Once you have run these cells you will be good to go!
 
-Module 1: [notebook 1](https://drive.google.com/file/d/1V3B1-z5ukzxppb0n36vigkPd3o6rJB2r/view?usp=sharing)
+Module 1: [notebook 1](https://colab.research.google.com/drive/1V3B1-z5ukzxppb0n36vigkPd3o6rJB2r?authuser=1)
 
-Module 2: [notebook 2](https://drive.google.com/file/d/11C0ZIebo6y_dMHzv1ymAW63hoe2mBxKg/view?usp=sharing)
+Module 2: [notebook 2](https://colab.research.google.com/drive/11C0ZIebo6y_dMHzv1ymAW63hoe2mBxKg?authuser=1)
 
-Module 3: [notebook 3](https://drive.google.com/file/d/1-StG3rq54fhPNRpjx19egFJYWAj1K3Q6/view?usp=sharing) 
+Module 3: [notebook 3](https://colab.research.google.com/drive/1-StG3rq54fhPNRpjx19egFJYWAj1K3Q6?authuser=1) 
 
 
 
