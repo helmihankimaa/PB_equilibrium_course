@@ -42,6 +42,8 @@ To run the notebooks locally, there are two main options: (1) running on a jupyt
 
 In addition, both methods assume [pip](https://pip.pypa.io/en/stable/installation/) and [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) are installed on your local machine. 
 
+Warning: The PATH AMPL may not run on a Mac with M4 because of binary compatibility and architectural changes introduced with the latest Apple Silicon chips. This issue may manifest in a “bad CPU type in executable” error. In this cae, try running the binary via Rosetta. Refer to the instructions [here](https://discussions.apple.com/thread/254439437?sortBy=rank) on how to install Rosetta.
+
 #### The Jupyter Server
 The Jupyter notebook is a web-based notebook environment for interactive computing.
 
