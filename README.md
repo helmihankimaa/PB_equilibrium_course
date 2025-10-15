@@ -10,7 +10,7 @@ Module 2: Mixed Complementarity Problems (MCPs)  and Strategic Competition
 
 Module 3: Bilevel Problems 
 
-Each notebook corresponds to a module in the course and they each include several exercises. The notebooks are designed to be self-contained but are closely linked with the in-person lectures of the course. The notebooks implement optimization models using Pyomo, a Python-based, open-source optimization modeling language. The problems are solved using open-source solvers and the choice of solver depends on the problem type. The solvers which we will be used are HiGHS, IPOT, SCIP, and PATH.
+Each notebook corresponds to a module in the course and they each include several exercises. The notebooks are designed to be self-contained but are closely linked with the in-person lectures of the course. The notebooks implement optimization models using Pyomo, a Python-based, open-source optimization modeling language. The problems are solved using open-source solvers and the choice of solver depends on the problem type. The solvers which we will be used are HiGHS, IPOPT, SCIP, and PATH.
 
 ## Getting Started
 There are two main options for installing and running the Jupyter notebooks (1) remotely or (2) locally. For users with limited Python programming experience, running the notebooks remotely via Google Colab is highly recommended. Users comfortable with environment management in Python and command line interfaces may prefer option 2.
