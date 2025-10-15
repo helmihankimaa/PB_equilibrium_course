@@ -22,7 +22,6 @@ dependencies:
   - expat=2.7.1=h313beb8_0
   - fonttools=4.55.3=py311h80987f9_0
   - freetype=2.13.3=h47d26ad_0
-  - glpk=5.0=h6d7a090_0
   - gmp=6.3.0=h7bae524_2
   - highs=1.11.0=ha024513_1
   - highspy=1.11.0=np2py311hf3994c0_1
