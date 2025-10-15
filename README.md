@@ -16,7 +16,7 @@ Each notebook corresponds to a module in the course and they each include severa
 There are two main options for installing and running the Jupyter notebooks (1) remotely or (2) locally. For users with limited Python programming experience, running the notebooks remotely via Google Colab is highly recommended. Users comfortable with environment management in Python and command line interfaces may prefer option 2.
 
 > [!IMPORTANT]
-> The notebooks in this repository are compatible with running the notebooks locally. Running them on Google Colab requires different code for installing packages. The Colab-specific code is found in the linked Google Colab notebooks below. If you bring the notebooks from this repository directly to Colab, you will need to modify the package-installation code blocks yourself.
+> The notebooks in the main folder of this repository are compatible with running the notebooks locally. Running them on Google Colab requires different code for installing packages. The Colab-specific code is found in the files in the ```google_colab_compatible_versions``` folder and in the linked Google Colab notebooks below. If you bring the notebooks from this repository directly to Colab, make sure to bring the Google Colab compatible versions.
 
 ### (1) Running Notebooks in Google Colab (recommended)
 Google Colaboratory is a free, browser-based tool that allows users to write and run Python code. To access and run the notebooks on Google Colab, click on the links below. 
