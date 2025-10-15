@@ -26,11 +26,11 @@ To edit the notebooks, you must save a copy of the notebook to your Google Drive
 
 The first cells in each notebook will install the necessary package dependecies and set up solvers. Once you have run these cells you will be good to go!
 
-Module 1: [notebook 1](https://colab.research.google.com/drive/1V3B1-z5ukzxppb0n36vigkPd3o6rJB2r?authuser=1)
+Module 1: [notebook 1](https://colab.research.google.com/drive/1sXpR6K7EddmwCaMloCmsoGSgcI9QmM1c?authuser=1)
 
-Module 2: [notebook 2](https://colab.research.google.com/drive/11C0ZIebo6y_dMHzv1ymAW63hoe2mBxKg?authuser=1)
+Module 2: [notebook 2](https://colab.research.google.com/drive/1W0pHnPuGUYWUZV3anm0qKtjr_0OT8Rhx?authuser=1)
 
-Module 3: [notebook 3](https://colab.research.google.com/drive/1-StG3rq54fhPNRpjx19egFJYWAj1K3Q6?authuser=1) 
+Module 3: [notebook 3](https://colab.research.google.com/drive/153eVOcaj519gys0Zy0ZBq3LLfFo6jEIV?authuser=1) 
 
 
 
