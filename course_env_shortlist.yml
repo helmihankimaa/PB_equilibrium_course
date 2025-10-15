@@ -9,4 +9,5 @@ dependencies:
   - pandas
   - scip
   - networkx
+  - glpk
 prefix: /opt/homebrew/Caskroom/miniconda/base/envs/course_env

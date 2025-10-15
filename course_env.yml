@@ -10,7 +10,7 @@ dependencies:
   - bottleneck=1.4.2=py311hb9f6ed7_0
   - brotli-python=1.0.9=py311h313beb8_9
   - bzip2=1.0.8=h80987f9_6
-  - ca-certificates=2025.9.9=hca03da5_0
+  - ca-certificates=2025.10.5=hbd8a1cb_0
   - comm=0.2.3=pyhe01879c_0
   - contourpy=1.3.1=py311h48ca7d4_0
   - cppad=20230000.0=hebf3989_2
@@ -22,6 +22,7 @@ dependencies:
   - expat=2.7.1=h313beb8_0
   - fonttools=4.55.3=py311h80987f9_0
   - freetype=2.13.3=h47d26ad_0
+  - glpk=5.0=h6d7a090_0
   - gmp=6.3.0=h7bae524_2
   - icu=75.1=hfee45f7_0
   - importlib-metadata=8.7.0=pyhe01879c_1
@@ -71,7 +72,7 @@ dependencies:
   - numpy=2.0.1=py311he598dae_1
   - numpy-base=2.0.1=py311hfbfe69c_1
   - openjpeg=2.5.2=hba36e21_1
-  - openssl=3.5.3=h5503f6c_1
+  - openssl=3.5.4=h5503f6c_0
   - packaging=25.0=pyh29332c3_1
   - pandas=2.3.2=py311h43d6402_0
   - parso=0.8.5=pyhcf101f3_0
