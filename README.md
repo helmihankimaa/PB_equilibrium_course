@@ -15,22 +15,25 @@ Each notebooks corresponds to a module in the course and they each include sever
 ## Getting Started
 There are two main options for installing and running the Jupyter notebooks (1) remotely or (2) locally. For users with limited Python programming experience, running the notebooks remotely via Google Colab is highly recommended. Users comfortable with environment management in Python and command line interfaces may prefer option 2.
 
+> [!IMPORTANT]
+> The notebooks in this repository are compatible with running the notebooks locally. Running them on Google Colab requires different code related to installation of packages. The Colab-specific code is found in the linked Google Colab notebooks below. If you bring the notebooks from this repository directly to Colab, you will need to modify the package-installation code blocks yourself.
+
 ### (1) Running Notebooks in Google Colab (recommended)
-Google Colaboratory is a free, browser-based tool that allows users to write and run Python code. To access and run the notebooks on Google Colab, click on the links below. The links will open the notebooks in a separate web browser.
+Google Colaboratory is a free, browser-based tool that allows users to write and run Python code. To access and run the notebooks on Google Colab, click on the links below. 
 
 To edit the notebooks, you must save a copy of the notebook to your Google Drive which can be done from the menu File -> Save a copy in Drive. For Modules 2 and 3, after saving a copy, you will need to **upload the PATH solver linux executable file** to the Colab project. The code expects to find this file in ```/content/path/pathampl```. To do this
 
  1. Download the linux executable file from this repository: it is the ```path/linux/pathampl``` file.
- 2. In the Colab notebook, open the file explorer by clicking the folder icon in the left-hand side bar. Create a new folder named ```path``` in the file explorer with right-click -> New folder.
+ 2. In the Colab notebook, open the file explorer by clicking the folder icon in the left-hand sidebar. Create a new folder named ```path``` in the file explorer with right-click -> New folder.
  3. Upload the ```pathampl``` file to the ```path``` folder by right-clicking on the ```path``` folder and selecting Upload.
 
 The first cells in each notebook will install the necessary package dependecies and set up solvers. Once you have run these cells you will be good to go!
 
-Module 1: [notebook 1](https://colab.research.google.com/drive/1sXpR6K7EddmwCaMloCmsoGSgcI9QmM1c?authuser=1)
+**Module 1:** [notebook 1](https://colab.research.google.com/drive/1sXpR6K7EddmwCaMloCmsoGSgcI9QmM1c?authuser=1)
 
-Module 2: [notebook 2](https://colab.research.google.com/drive/1W0pHnPuGUYWUZV3anm0qKtjr_0OT8Rhx?authuser=1)
+**Module 2:** [notebook 2](https://colab.research.google.com/drive/1W0pHnPuGUYWUZV3anm0qKtjr_0OT8Rhx?authuser=1)
 
-Module 3: [notebook 3](https://colab.research.google.com/drive/153eVOcaj519gys0Zy0ZBq3LLfFo6jEIV?authuser=1) 
+**Module 3:** [notebook 3](https://colab.research.google.com/drive/153eVOcaj519gys0Zy0ZBq3LLfFo6jEIV?authuser=1) 
 
 
 
@@ -42,7 +45,8 @@ To run the notebooks locally, there are two main options: (1) running on a jupyt
 
 In addition, both methods assume [pip](https://pip.pypa.io/en/stable/installation/) and [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) are installed on your local machine. 
 
-Warning: The PATH AMPL may not run on a Mac with M4 because of binary compatibility and architectural changes introduced with the latest Apple Silicon chips. This issue may manifest in a “bad CPU type in executable” error. In this cae, try running the binary via Rosetta. Refer to the instructions [here](https://discussions.apple.com/thread/254439437?sortBy=rank) on how to install Rosetta.
+> [!WARNING]
+> The PATH AMPL may not run on a Mac with M4 because of binary compatibility and architectural changes introduced with the latest Apple Silicon chips. This issue may manifest in a “bad CPU type in executable” error. In this cae, try running the binary via Rosetta. Refer to the instructions [here](https://discussions.apple.com/thread/254439437?sortBy=rank) on how to install Rosetta.
 
 #### The Jupyter Server
 The Jupyter notebook is a web-based notebook environment for interactive computing.
