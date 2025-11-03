@@ -1,5 +1,6 @@
 # In-Class Exercises for Equilibrium Modeling Course
 Instructors: Steven A. Gabriel, Fabricio Oliveira, Seksun Moryadee, Helmi Hankimaa
+
 Date: October 2025
 
 This repository contains a set of Jupyter notebooks meant to complement lectures on the Equilibrium Modeling as part of the in-person course at Petrobras. The repository contains three notebooks:
